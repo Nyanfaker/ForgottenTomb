@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Destroyable
+  - Object
+  - Interactable
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Player
+  - Enemy
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sorting
+    uniqueID: 3863735451
+    locked: 0
+  - name: Floor
+    uniqueID: 861987673
+    locked: 0
+  - name: Objects
+    uniqueID: 886574599
+    locked: 0
+  - name: Dark
+    uniqueID: 1103565817
+    locked: 0

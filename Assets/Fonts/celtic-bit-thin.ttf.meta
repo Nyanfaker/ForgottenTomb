@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 86d58f9831b4a56498ab35682ec89ff5
+timeCreated: 1510717359
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Celtic-Bit Thin
+  fontNames:
+  - Celtic-Bit Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
